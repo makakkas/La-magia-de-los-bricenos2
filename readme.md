@@ -23,10 +23,9 @@ Tras el éxito del primer año, esta versión 2.0 llega mejorada para que tíos,
 
 ---
 
-## 🌐 Enlace a la App
-
-Entra y descubre la magia aquí:  
-👉 [https://jotafiles.github.io/La-magia-de-los-Brice-os/](https://jotafiles.github.io/La-magia-de-los-Brice-os/)
+## 🌐 Version anterior
+  
+👉 [https://github.com/jotafiles/La-magia-de-los-Brice-os/](https://github.com/jotafiles/La-magia-de-los-Brice-os)
 
 ---
 *Desarrollado con mucho cariño para la familia Briceño ❤️*
